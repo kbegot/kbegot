@@ -1,6 +1,6 @@
-# Hey guys! 
+# Hey guys! <img src="https://github.com/kbegot/kbegot/blob/main/wave.gif" width=30px /> 
 
-My name is Kévin Begot and I'm a Web Developer. I'm from France, living around Lyon and currently working at [Adstrategy](https://www.adstrategy.fr/). <img src="https://github.com/kbegot/kbegot/blob/main/wave.gif" width=30px /> 
+My name is Kévin Begot and I'm a Web Developer. I'm from France, living around Lyon and currently working at [Adstrategy](https://www.adstrategy.fr/).
 
 
 
