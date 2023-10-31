@@ -1,5 +1,5 @@
 # Hey guys! 
-![wave](https://github.com/kbegot/kbegot/blob/main/wave.gif)
+![wave](https://github.com/kbegot/kbegot/blob/main/wave.gif) &emsp;
 
 My name is Kévin Begot and I'm a Web Developer. I'm from France, living around Lyon and currently working at [Adstrategy](https://www.adstrategy.fr/).
 
